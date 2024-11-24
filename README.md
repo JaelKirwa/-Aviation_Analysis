@@ -1,4 +1,6 @@
-README: Aircraft Risk Assessment and Acquisition Strategy
+README: 
+
+Aircraft Risk Assessment and Acquisition Strategy
 Project Overview
 Your company is diversifying into the aviation industry and aims to purchase and operate airplanes for both commercial and private enterprises. The challenge is to identify aircraft with low risk profiles to minimize potential financial, safety, and operational issues as the company enters this new market. This project evaluates the historical accident records of various aircraft makes and models, develops a risk frequency and severity score, and provides actionable insights and recommendations for aircraft acquisition strategies.
 
